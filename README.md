@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chisah2x
-- 👀 I’m interested in data science and machine learning.
+- 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently pursuing MTech in Data Science from NITK, Surathkal. 
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ... chiragsahu257@gmail.com
