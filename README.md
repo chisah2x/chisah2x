@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @chisah2x
-- 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently pursuing MTech in Data Science from NITK, Surathkal. 
-- 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me ... chiragsahu257@gmail.com
-
-<!---
-chisah2x/chisah2x is a ✨ Student intern ✨ at Siemens Industry Software.  
-Programming languages: C++ and Python
---->
+I am a final year student pursuing a M Tech degree in Data Science at NIT Karnataka, Surathkal. I have done an Exploratory Data Analysis, Data Cleaning and Built different Machine Learning models, Did hyper parameter tunning of each model on different datasets to hone my skillset.
